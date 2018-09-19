@@ -14,6 +14,7 @@
     "@types/hapi": "^17.0.19",
     "@types/joi": "^13.4.5",
     "hapi": "^17.5.4",
+    "hapi-auth-basic": "^5.0.0",
     "joi": "^13.6.0"
   },
   "devDependencies": {
